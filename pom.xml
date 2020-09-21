@@ -6,15 +6,14 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.3.4.RELEASE</version>
-<!--    <version>1.5.9.RELEASE</version>-->
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.himi</groupId>
-    <artifactId>springboot</artifactId>
+    <artifactId>springbootrestapi</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>springbootSkeleton</name>
-    <description>Skeleton for Springboot</description>
+    <name>springbootRestAPI</name>
+    <description>Rest API Springboot</description>
 
     <properties>
         <java.version>1.8</java.version>
